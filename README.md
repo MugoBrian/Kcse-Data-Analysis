@@ -21,10 +21,12 @@ The number of quality grades is lower than the number of non quality grades over
 The percentage of quality grades of male candidates is higher than that of female candidates over the years.
 The percentage of non quality grades of male candidates is lower than that of female candidates over the years
 ![](percent_quality.png)
+
 ### Exception observation  (What caught my eye)
 
 In 2016:
 Total number of female candidates is higher than male candidates.
+
 ![](female_2016.png)
 
 Total number of quality grades in female candidates is higher than that of male candidates.
