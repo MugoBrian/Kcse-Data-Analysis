@@ -5,8 +5,7 @@ Data science project for exploratory analysis on the kcse grades dataset (Kamili
 The performance of all candidates (both male and female) increased from the year 2006- 2015
 
 In 2016 the performance decreased drastically for all candidates
-
-![] (trend_grade.png)
+![] (trend_grades.png)
 
 There is an increase in the number of total candidates over the past years.
 ![](total_candidates.png)
