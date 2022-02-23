@@ -22,6 +22,9 @@ The percentage of quality grades of male candidates is higher than that of femal
 The percentage of non quality grades of male candidates is lower than that of female candidates over the years
 ![](images/percent_quality.png)
 
+The most common grade scored by all candidates over the years is D and D-
+![](images/common_grade.png)
+
 ### Exception observation  (What caught my eye)
 
 In 2016:
@@ -32,6 +35,16 @@ Total number of female candidates is higher than male candidates.
 Total number of quality grades in female candidates is higher than that of male candidates.
 Total number of non quality grades in female candidates is higher than that of male candidates.
 ![](images/quality_grade.png)
+
+In 2011:
+
+1. There's a sharp increase in  the total number of candidates
+![](images/total_candidates.png)
+2. There's a sharp increase in the total number of candidates who scored grade B+
+![](images/trend_grades.png)
+3. There's a huge gap difference between the total number of male and female candidates
+![](images/gender_gap.png)
+
 ## Conclusion
 
 The number of candidates increases over the years.
